@@ -68,7 +68,7 @@
 ## 3 - Produto Final do projeto
 
   - É um painel online, hospedado em um cloud e dispon;ivel para acesso em qualquer dispositivo conectado a internet.
-  - O painel pode ser acessado através do link : 
+  - O painel pode ser acessado através do link : <https://kubohenriquefomezero.streamlit.app>
 
 ## 4 - Conclusão
 
